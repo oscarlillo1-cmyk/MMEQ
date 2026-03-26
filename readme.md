@@ -1,44 +1,58 @@
-# 🛠️ PRÁCTICA: POST-MONTAJE Y MANTENIMIENTO DE EQUIPOS
+# 🛠️ UNIDAD 4: MONTAJE Y MANTENIMIENTO DE EQUIPOS
 
 ## 👨‍💻 Alumno:
 ## 🏫 Curso: 1º SMR
+## 📅 Unidad: UT4
 
 ---
 
-## 🎯 OBJETIVO
+## 🎯 OBJETIVO DE LA UNIDAD
 
-El objetivo de esta práctica es dejar un equipo completamente operativo tras su montaje, realizando:
+En esta unidad aprenderás a montar, desmontar y analizar un equipo informático, comprendiendo el funcionamiento de sus componentes y aplicando buenas prácticas de trabajo.
 
-- Instalación del sistema operativo
-- Diagnóstico del equipo
-- Gestión de discos y particiones
-- Instalación de drivers
-- Clonado y copias de seguridad
-- Mantenimiento del sistema
-- Asistencia remota
-- Resolución de problemas reales
+El objetivo final es que seas capaz de actuar como un técnico, no solo montando equipos, sino también evaluando y mejorando el proceso.
 
 ---
 
-## 📂 ESTRUCTURA
+## 🧠 COMPETENCIAS QUE SE TRABAJAN
 
-- 01_instalacion_so.md → Instalación del sistema operativo
-- 02_diagnostico_equipo.md → Análisis del hardware
-- 03_particiones.md → Gestión de discos
-- 04_drivers.md → Controladores
-- 05_clonado_backup.md → Copias y clonación
-- 06_mantenimiento.md → Herramientas avanzadas
-- 07_asistencia_remota.md → Control remoto
-- 08_problemas_detectados.md → Resolución de problemas
+- Identificación de componentes hardware
+- Montaje y desmontaje de equipos
+- Uso correcto de herramientas
+- Aplicación de normas de seguridad
+- Análisis crítico de procesos técnicos
+- Documentación técnica profesional
 
 ---
 
-## 📸 IMPORTANTE
+## 📦 CONTENIDO DE LA ACTIVIDAD
 
-Todas las evidencias deben incluir capturas en la carpeta `/imagenes` y estar referenciadas en los documentos.
+Este repositorio recoge el trabajo realizado durante la unidad:
+
+### 📁 01_componentes.md
+Identificación de los componentes del equipo y explicación de su función.
+
+### 📁 02_proceso_montaje.md
+Descripción paso a paso del montaje del equipo, apoyado en un vídeo como evidencia.
+
+### 📁 03_analisis_video.md
+Análisis crítico del proceso de montaje a partir del vídeo realizado.
+
+### 📁 04_errores_detectados.md
+Identificación y explicación de errores reales o simulados durante el montaje.
+
+### 📁 05_mejoras_proceso.md
+Propuestas de mejora del proceso de montaje desde un punto de vista técnico.
+
+### 📁 06_buenas_practicas.md
+Recopilación de buenas prácticas profesionales en el montaje de equipos.
 
 ---
 
-## 🧠 CONCLUSIÓN FINAL
+## 🎬 VÍDEO DE MONTAJE
 
-(Explica qué has aprendido y qué problemas has resuelto)
+📌 Enlace al vídeo:
+
+(Este vídeo debe mostrar el proceso de montaje y desmontaje del equipo)
+
+---
